@@ -1,24 +1,98 @@
-{'ver1':'7', 'ver2':'40', 'ver3':'\nتحديث جديد v7.40
-اضافة ميزة الكاسر بروكسي الـ VPN للدول المحظور فيها الاتصال عبر الواتساب
+{'ver1':'7', 'ver2':'50', 'ver3':'\nتحديث جديد v7.50 
+اضافه اصلاح اشعار من شاهد حالتك و اشعار عند تغيير الصورة الشخصية.
 
-اضافة اشعار من شاهد حالتك
+اضافه ميزة الذهاب الى الرسالة الاولى بشكل جذاب.
 
-اضافة اشعار عند تغيير الصورة الشخصية
+اضافه ميزة عرض الرسائل المرسلة للمجموعة لكل عضو بشكل منفصل وعرض الرسائل المرسلة بواسطتك بالمجموعة بشكل منفصل.
 
-اضافة ميزة عرض الرسائل الطويلة كاملة بدون كلمة قراءة المزيد
+اضافه ميزة المنشن من الشاشة الرئيسية يظهر @ اذا قام شخص بالاشارة اليك او الرد على رسالتك في مجموعة تظهر @ في الشاشة الرئيسية.
 
-اضافة المؤثرات المتساقطه في الواتساب
+اضافه ميزة الرد التلقائي.
 
-اضافة مؤثرات التنقل ثري دي في الشاشة الرئيسية
+اضافه ميزة الرسائل المجدولة.
 
-اضافة أيقونات جديده للواتساب
+اضافه ميزة الوضع اليلي والوضع الشفاف.
 
-إصلاح مشاكل الإنهيار عند ( إعادة التوجيه - بدء محادثه جديدة - مشاركة الوسائط ) لنظام 4.4.2 
+اضافه ميزة حذف الرسالة لدى الجميع في اي وقت
 
-إصلاح عدم تغيير الخطوط العربية
+اضافه ميزة اختيار الحالة التي تريد ان يتم معرفة الشخص الآخر انك شاهدتها.
 
-إصلاح مشكلة الإنهيار عند تفعيل القفل لبعض الأجهزة
+اضافه ميزة تغيير لون خلفية الحالة وتغيير لون خط الحالة واضافة خطوط جديدة للحالة وستايلات جاهزة للحالة.
 
-مزيد إصلاحات وتحسينات أخرى.
+اضافه ميزة الزر العائم بشاشة المحادثة.
 
-\nAdd the VPN proxy feature to countries where WhatsApp is blocked\nAdd notice from your witness\nAdd a notification when changing the personal photo\nAdded full feature long message view without word read more\nAdd falling effects on WhatsApp\nAdd 3D navigation effects in the home screen\nAdd new icons for WhatsApp\nFix crash problems when (Forwarding - Starting New Conversation - Media Sharing) System 4.4.2\nFix not changing Arabic fonts\nOther fixes.\n' , 'dli':'https://whatsapp-zaid.blogspot.com/2020/02/ZAWhatsApp-V8.html'}
+اضافه ميزة النص التفجيري (التلقائي).
+
+اضافه ميزة ارسال رموز تعبيرية مميزة ومنوعة.
+
+اضافه ميزة تغيير خطوط الرسائل.
+
+اضافه واصلاح رفع مدة الحالة الى ساعة كاملة عند البعض.
+
+اضافه ميزة الدردشة السريعة للدخول لمراسلة اي شخص من داخل المحادثة نفسها.
+
+اضافه مؤثرات تمرير الدردشة للأعلى والاسفل.
+
+اضافه ايقونات جديدة وايقونات منتخبات كرة قدم وغيرها العديد.
+
+اضافه العديد والعديد من المزايا
+
+إصلاح مشكلة اهتزاز المحادثة عند البعض.
+
+إصلاح ظهور اربعة ارقام لمن شاهد الحالة اصبح يظهر اسم الشخص.
+
+إصلاح مشكلة وضع اسمي بلاً من كلمة ZAWhatsApp.
+
+إصلاح مشكلة قفل الواتس اب عند البعض.
+
+إصلاح مشكلة تأخير ارسال الرسائل عند البعض.
+
+إصلاح مشكلة الترجمة.
+
+/n Added Go to the first message.
+
+Added View the messages sent to the group for each member separately.
+
+Added View messages sent by you by the group separately.
+
+Added Features of the Home screen appears @ if someone resemble you or reply your message in a set showing @ in the main screen.
+
+Added Auto reply.
+
+Added Scheduled messages.
+
+Added The message delete the message in everyone at any time.
+
+Added Choose the situation that you want to know the other person you ve seen. 
+
+Added Change the color of the case background and change the color line status and add new lines for the situation and ready-made states for the situation.
+
+Added Change the font lines.
+
+Added The floating screen button is converted.
+
+Added The explosive text (automatic).
+
+Added Send distinctive expressive codes and promises.
+
+Added The situation is delicious and transparent status.
+
+Added Quick Chat to enter to ancestor anyone from within the conversation itself.
+
+Added Pass chat right to remove it or left to communicate voice or video.
+
+Added Pass chat up and down.
+
+Added New Icons
+
+Fixed The vibration of conversation in some.
+
+Fixed Put my name from the word ZAWhasApp.
+
+Fixed The problem of the Watts lock is in some.
+
+Fixed Problem to send messages in some.
+
+Fixed Translation of the translation.
+
+Fixed Lock feature of some devices.
