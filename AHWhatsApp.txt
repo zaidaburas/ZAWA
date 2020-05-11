@@ -1,1 +1,1 @@
-{'ver1':'5', 'ver2':'45', 'ver3':'\n تجربة فقط (مرحباً)'https://www.whatsapp-zaid.blogspot.com'}
+{'ver1':'5', 'ver2':'45', 'ver3':'\n تجربة فقط (مرحباً)'https://whatsapp-zaid.blogspot.com'}
